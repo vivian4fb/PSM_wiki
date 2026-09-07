@@ -4,7 +4,7 @@
 
 ## 1. User page (User:<account>)
 
-> I am Vivian Amos Sureshkumar, a member of the Holography Research Group at De Montfort University, Leicester, and an optical engineer. I have a **conflict of interest** with respect to the parallel stacked mirror (PSM) model of volume-grating diffraction: I am a co-author, with the model's originator David Brotherton-Ratcliffe, of a manuscript on the model. In accordance with [[WP:COI]] I do not edit [[Volume hologram]], [[Holographic optical element]] or any article on the PSM model directly; I propose changes on talk pages with {{tl|edit COI}} and submit new material through [[WP:AfC|Articles for Creation]], sourcing only peer-reviewed publications and independent secondary sources. I am not paid to edit.
+> I am Vivian Sureshkumar, a member of the Holography Research Group at De Montfort University, Leicester, and an optical engineer. I have a **conflict of interest** with respect to the parallel stacked mirror (PSM) model of volume-grating diffraction: I am a co-author, with the model's originator David Brotherton-Ratcliffe, of a manuscript on the model. In accordance with [[WP:COI]] I do not edit [[Volume hologram]], [[Holographic optical element]] or any article on the PSM model directly; I propose changes on talk pages with {{tl|edit COI}} and submit new material through [[WP:AfC|Articles for Creation]], sourcing only peer-reviewed publications and independent secondary sources. I am not paid to edit.
 
 ## 2. Talk:Volume hologram — edit request
 
